@@ -1,8 +1,7 @@
 name: Continuous integration example
 
 on: 
-  push:
-
+  pull_request: 
 jobs:
 
   test:
