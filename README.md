@@ -7,3 +7,4 @@ Prueba de borrado de commit
 Ejercicio 3 - Hecho
 Ejercicio 4- Hecho
 Ejercicio 5 Hecho
+ejercicio 6 - Haciendose
